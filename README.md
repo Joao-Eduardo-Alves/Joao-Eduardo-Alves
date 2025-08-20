@@ -60,29 +60,26 @@
 
 <br/>  
 
-
 ## Se conecte comigo 
 <div align="center">
 <a href="https://linkedin.com/in/Joaoeduardoalves" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
-
 
 ## Estatísticas Github
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Joao-Eduardo-Alves&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+<div style="text-align:center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joao-Eduardo-Alves&show_icons=true&count_private=true&hide_border=true" style="vertical-align: middle;" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Eduardo-Alves&layout=compact&langs_count=7&theme=dark" style="vertical-align: middle;" />
+</div>
 
 <br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Joao-Eduardo-Alves&&style=flat-square" align="center" />
 </div>  
-  
 
 <br/>  
 
