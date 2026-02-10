@@ -5,11 +5,11 @@
 
 ### <div align="center">Olá! 👋 Me chamo João Eduardo, sou um estudante de análise e desenvolvimento de sistemas focado em atuação FullStack.</div>  
   
-
-- 🛠️ Atualmente estou desenvolvendo um sistema web completo para controle de estoques e geração de relatórios, utilizando C# (Minimal API), JavaScript, HTML e CSS.  
+ 
+- 🛠️ Atualmente estou participando do bootcamp "BACKEND COM JAVA & AWS" da CI&T 
   
 
-- 🌱 Aprendizado Atual: Aprofundando meus estudos em C#, .NET e desenvolvimento web.  
+- 🌱 Aprendizado Atual: Aprofundando meus estudos em desenvolvimento Fullstack, com foco em integração entre frontend e backend, aplicação de boas práticas de arquitetura e manutenção de código limpo e sustentável. 
   
 
 - 🤖 Aplicando ferramentas de Inteligência Artificial para produtividade e automação de processos  
