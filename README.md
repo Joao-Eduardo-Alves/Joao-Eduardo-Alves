@@ -3,20 +3,16 @@
 </div>  
   
 
-### <div align="center">Olá! 👋 Me chamo João Eduardo, sou um estudante de análise e desenvolvimento de sistemas focado em atuação FullStack.</div>  
+### <div align="center">Olá! 👋 Me chamo João Eduardo, sou um estudante de análise e desenvolvimento de sistemas, adquirindo conhecimentos práticos em boas práticas de arquitetura e desenvolvimento FullStack.</div>  
   
  
 - 🛠️ Constantemente trabalhando e praticando com projetos pessoais.
-  
 
+- ⚡ Gosto de criar projetos que simulam situações reais de mercado, para treinar como se estivesse em um ambiente profissional.
+
+- 🤖 Aplicando ferramentas de Inteligência Artificial para produtividade, automação de processos e auxiliar meu processo de aprendizado.  
+  
 - 🌱 Aprendizado Atual: Aprofundando meus estudos em desenvolvimento Fullstack, com foco em integração entre frontend e backend, aplicação de boas práticas de arquitetura e manutenção de código limpo e sustentável. 
-  
-
-- 🤖 Aplicando ferramentas de Inteligência Artificial para produtividade e automação de processos  
-  
-
-- ⚡ Gosto de criar projetos que simulam situações reais de mercado, para treinar como se estivesse em um ambiente profissional.  
-  
 
 <br/>  
 
