@@ -111,6 +111,18 @@
 
 <br/>  
 
+## Se conecte comigo 
+<div align="center">
+<a href="https://linkedin.com/in/Joaoeduardoalves" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+  
+<img src="https://img.shields.io/badge/Email-joaoeduardo.alves%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  
+</div>  
+
+<br/>  
+
 ## Estatísticas Github
 
 <div align="center">
